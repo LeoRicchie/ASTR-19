@@ -1,0 +1,1 @@
+print("Leo Richard Constantine, He/him, my favorite movie is 2 fast 2 furious. I love this movie because I love cars and the early 2000s atmosphere around them. My favorite food is chashu pork ramen. I always get this when I go out with friends")
